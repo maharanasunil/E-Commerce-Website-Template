@@ -1,7 +1,6 @@
 # E-Commerce-Website
-"Created using HTML and CSS and JavaScript"
-
-Website includes:-
+# Created using HTML and CSS and JavaScript
+Website includes:
 Header of Website
 nav bar
 Simple Logo and used Brand pictures for the website
